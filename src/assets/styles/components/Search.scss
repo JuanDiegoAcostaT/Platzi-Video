@@ -1,0 +1,36 @@
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 300px;
+    border-radius: 0px 0px 40px 40px;
+  }
+
+  .main .isHome {
+    width: 70%;
+  }
+  
+  .main__title {
+    color: white;
+    font-size: 25px;
+  }
+
+  .btn{
+    background-color: white;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    border-radius: 10px;
+    padding-top: 5px;
+    text-decoration: none;
+    color:#8f57fd;
+    transition: 100ms;
+  }
+
+  .btn:hover {
+    opacity: 0.5;
+  
+  }
+  
