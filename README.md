@@ -5,7 +5,7 @@ This app is a platform in which you can watch a series of educational videos, it
 
 <img src="https://i.imgur.com/zwXUZCH.png" />
 
-<img src="https://imgur.com/iTi87zG" />
+
 
 - React
 
